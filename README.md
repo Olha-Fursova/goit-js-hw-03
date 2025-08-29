@@ -1,4 +1,4 @@
-# JavaScript Homework 03 (GoIT Neoversity) – Branching and Loops  
+# JavaScript Homework 03 (GoIT Neoversity) – Arrays and Functions
 
 ## Project Overview  
 This project is a set of JavaScript exercises from GoIT Neoversity.
